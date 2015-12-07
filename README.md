@@ -16,3 +16,9 @@
     1. Transpiling
     2. Bundling
 4. Conclusion
+
+
+## Goals
+
+How to use ES6 modules (syntax)?
+What tools can I use to build app with ES6 modules in production?
